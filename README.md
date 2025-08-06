@@ -3,7 +3,6 @@
 ## Purpose
 
 This project is a sample design intended to support the development of applications for foreign language learning. Its aim is to streamline activities such as participant management, lesson scheduling, attendance tracking, and other administrative tasks related to running a language learning program.  
-Additionally, this project serves as a practice platform for working with HTML, CSS, and JavaScript.
 
 ## Description
 
